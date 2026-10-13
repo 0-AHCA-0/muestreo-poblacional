@@ -1,0 +1,13 @@
+cliente_id,edad,numero_hijos,genero,nivel_educacion,ciudad,ingresos_mensuales,satisfaccion
+C001,34,2,Femenino,Universidad,Quito,1450,4
+C002,27,0,Masculino,Secundaria,Guayaquil,980,3
+C003,41,3,Femenino,Posgrado,Cuenca,2200,5
+C004,22,0,Masculino,Universidad,Quito,760,2
+C005,36,1,Femenino,Secundaria,Guayaquil,1150,3
+C006,29,2,Otro,Universidad,Quito,1350,4
+C007,48,4,Masculino,Primaria,Cuenca,890,2
+C008,33,1,Femenino,Universidad,Guayaquil,1680,4
+C009,25,0,Masculino,Secundaria,Quito,840,3
+C010,39,2,Femenino,Posgrado,Guayaquil,2450,5
+C011,31,1,Otro,Universidad,Cuenca,1210,4
+C012,45,3,Masculino,Secundaria,Quito,1070,2
